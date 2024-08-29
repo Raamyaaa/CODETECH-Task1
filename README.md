@@ -116,5 +116,6 @@ Here are some key SQL commands used in the project:
 
 
 ### **Contact Information**
+GitHub Profile:(https://github.com/Raamyaaa)
 
 For any inquiries or contributions, feel free to reach out:
